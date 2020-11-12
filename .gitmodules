@@ -1,0 +1,3 @@
+[submodule "VoidEngine/vendor/spdlog"]
+	path = VoidEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog/
